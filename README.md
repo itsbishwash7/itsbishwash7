@@ -1,31 +1,20 @@
-## Software Developer
+Software Developer
+Experienced in web development with a strong focus on backend development, data engineering, and machine learning.
 
-Software developer with experience in web development, primarily focused on backend development, data engineering, and machine learning.
-
-### Programming Languages
-
+Programming Languages
 C#, JavaScript, Java, Python, TypeScript
 
-### Frameworks and Libraries
+Frameworks & Libraries
+ASP.NET Core, React.js, Angular, Tailwind CSS
 
-* Backend: ASP.NET Core
-* Frontend: React.js, Angular, Tailwind CSS
-
-### Tools and Technologies
-
+Tools & Technologies
 Docker, Postman
 
-### Cloud Platforms
-
+Cloud Platforms
 AWS (S3, EC2)
 
-### Databases
+Databases
+Oracle PL/SQL, MS SQL Server, PostgreSQL, MongoDB
 
-* Relational: Oracle PL/SQL, MS SQL Server, PostgreSQL
-* NoSQL: MongoDB
-
-### Version Control and CI/CD
-
-* Version Control: Git, GitHub
-* CI/CD: GitHub Flow
-
+Version Control & CI/CD
+Git, GitHub, GitHub Flow
