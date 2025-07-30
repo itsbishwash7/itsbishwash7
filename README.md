@@ -1,16 +1,31 @@
-## Hi there 👋
+## Software Developer
 
-<!--
-**itsbishwash7/itsbishwash7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer with experience in web development, primarily focused on backend development, data engineering, and machine learning.
 
-Here are some ideas to get you started:
+### Programming Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C#, JavaScript, Java, Python, TypeScript
+
+### Frameworks and Libraries
+
+* Backend: ASP.NET Core
+* Frontend: React.js, Angular, Tailwind CSS
+
+### Tools and Technologies
+
+Docker, Postman
+
+### Cloud Platforms
+
+AWS (S3, EC2)
+
+### Databases
+
+* Relational: Oracle PL/SQL, MS SQL Server, PostgreSQL
+* NoSQL: MongoDB
+
+### Version Control and CI/CD
+
+* Version Control: Git, GitHub
+* CI/CD: GitHub Flow
+
